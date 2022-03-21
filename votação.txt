@@ -1,0 +1,19 @@
+se sua idade for menor que 16,seu voto não é permitido
+se sua idade for 16 ou 17, seu voto é facultativo
+se sua idade for maior que 18 seu voto é obrigatório
+se sua idade for maior que 70, seu voto é facultativo
+ver em qual local fica sua sessão
+apresentar seu titulo de eleitor ao mesario
+procurar a sala da sua sessão
+entrar na sala
+procurar seu nome na lista
+assinar ao lado do seu nome
+ir para a cabine eleitoral
+esperar a urna eletrônica mostrar em qual cargo você quer votar 
+digitar o numero do candidato
+vai aparecer a foto
+confirmar ou não 
+se confirmar seguir votando nos proximos cargos
+finalizar a votação
+ir embora
+
